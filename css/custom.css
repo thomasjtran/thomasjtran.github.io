@@ -1,0 +1,90 @@
+body{
+}
+
+div#bannerImage{
+	margin-top: 50px;
+	width: 100%;
+}
+
+div#mvcSection, div#javaSection, div#mobileSection, div#appDesignSection, div#contactSection{
+	width: 100%;
+	border: none;
+	/*
+	border-radius: 25px;
+	*/
+	margin-top: 0px;
+	
+	padding-left: 5%;
+	padding-right: 5%;
+	
+	/*
+	margin-bottom: 10px;
+	*/
+	padding-top: 80px;
+	padding-bottom: 90px;
+}
+
+img.img-responsive.col-md-12{
+	padding: 0;
+}
+
+div#bannerGrid{
+	padding: 0;
+}
+
+div#mvcSection, div#mobileSection, div#contactSection{
+	background-color: #DEDEDE;
+}
+
+div#javaSection, div#appDesignSection{
+	color: #EDEDED;
+	background-color: #153F99;
+}
+
+.section-image{
+	margin-bottom: 15px;
+}
+
+.test1{
+	float: none;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.modal-content{
+	background-color: #E6E6E6;
+}
+
+.modal-dialog.modal-lg{
+	margin: 60px auto 70px auto;
+}
+
+div#contactSection{
+}
+
+.col-md-12 h3{
+	text-align: center;
+	margin-top: 10px;
+}
+
+img.img-responsive.img-thumbnail{
+	border: none;
+}
+
+button.projectThumbnail{
+	padding:0;
+	border:0;
+	outline:none;
+}
+
+div#mvcRow{
+}
+
+.customCenter{
+	text-align: center;
+}
+
+dl.dl-horizontal{
+}
+.caption.customCenter{
+}
